@@ -1,0 +1,7 @@
+Thorchain is a decentralized cross-chain liquidity protocol built on blockchain technology. It allows for the seamless exchange of cryptocurrencies between different blockchain networks, such as Bitcoin, Ethereum, Binance Chain, and others. Thorchain's native cryptocurrency is called RUNE.
+
+One of the key features of Thorchain is its ability to provide a trustless, non-custodial solution for cryptocurrency trading, allowing users to remain in control of their assets at all times. Thorchain's cross-chain capabilities allow users to trade between cryptocurrencies on different networks without having to rely on centralized exchanges or third-party custodians.
+
+In order to facilitate this cross-chain trading, Thorchain uses a unique system of "nodes" that execute trades and process transactions. These nodes are operated by individuals who hold RUNE tokens, which they can use to earn fees for providing liquidity to the Thorchain network. In this way, Thorchain incentivizes users to contribute to the network's liquidity and stability.
+
+Overall, Thorchain aims to create a decentralized, interoperable ecosystem for cryptocurrency trading that is accessible, secure, and efficient. While it is still a relatively new project, Thorchain has gained a significant following among crypto enthusiasts and has the potential to play an important role in the future of decentralized finance (DeFi) and cross-chain interoperability.
