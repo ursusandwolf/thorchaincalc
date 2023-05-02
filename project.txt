@@ -1,0 +1,27 @@
+project/
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── interim/
+├── notebooks/
+│   ├── exploratory/
+│   ├── preprocessing/
+│   └── analysis/
+├── src/
+│   ├── data/
+│   │   ├── make_dataset.py
+│   │   ├── preprocess.py
+│   │   └── clean.py
+│   ├── models/
+│   │   ├── train.py
+│   │   └── predict.py
+│   ├── visualization/
+│   │   └── visualize.py
+│   ├── utils/
+│   │   └── utils.py
+│   └── main.py
+├── tests/
+│   ├── unit/
+│   └── integration/
+├── README.md
+└── requirements.txt
